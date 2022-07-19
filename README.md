@@ -1,16 +1,40 @@
-### Hi there 👋
+# Hi, I'm Pavel 👋  
 
-<!--
-**pashabezborod/pashabezborod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior java developer looking for some commercial developing experience and open for any offers.  
+<div style="text-align: center;">How to reach me:</div>
 
-Here are some ideas to get you started:
+<p align='center'>
+    <a href="mailto:paul.bezborodov@protonmail.com">
+        <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white"/>
+    </a>
+    <a href="https://t.me/BezborodovPaul">
+        <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+    </a>
+    <a href="https://vk.com/id235759008">
+        <img src="https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white"/>
+    </a>
+    <a href="mailto:igorshabaga@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical skills:
+`Java Core` `Multithreading` `IDEA` `GitHub` `GitLab` `OOP` `Linux` `SQLite` `Docker`
+
+### Other skills:
+`English upper intermediate` `Teamwork and Teamlead experience (not IT)`
+### Education
+Have a Master's degree in music.
+Completed [JavaRush](https://javarush.ru/users/2643012) school and finishing soon Innopolis University "Digital professions" course.
+### About me
+I'm a professional musician keen on IT, and some time before I understood that I like IT even more, than music.  
+So I learn java, improve my skills and looking for my first real developer's work.  
+You can take a look at my small projects on GitHub I make to have some practice along with my education.  
+I've been living and working to many cities, so I'm ready to move wherever you need me if I'd like your offer. 
+
+
+
+
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pashabezborod&theme=dracula)  
