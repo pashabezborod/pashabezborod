@@ -19,7 +19,7 @@ Junior java developer looking for some commercial developing experience and open
 </p>
 
 ### Technical skills:
-`Java Core` `Multithreading` `IDEA` `GitHub` `GitLab` `OOP` `Linux` `SQLite` `Docker`
+`Java Core` `Multithreading` `IDEA` `GitHub` `GitLab` `OOP` `Linux` `SQLite` `Docker` `Maven`
 
 ### Other skills:
 `English upper intermediate` `Teamwork and Teamlead experience (not IT)`
