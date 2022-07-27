@@ -30,10 +30,10 @@ Junior java developer looking for some commercial developing experience and open
 Have a Master's degree in music.
 Completed [JavaRush](https://javarush.ru/users/2643012) school and finishing soon Innopolis University "Digital professions" course.
 ### About me
-I'm a professional musician keen on IT, and some time before I understood that I like IT even more, than music.  
-So I learn java, improve my skills and looking for my first real developer's work.  
+I'm a professional musician keen on IT, and some time before I understood that I like IT even more than music.  
+So I am learning Java, improving my skills and looking for my first real developer's work.  
 You can take a look at my small projects on GitHub I made to have some practice along with my education.  
-I've been living and working to many cities, so I'm ready to move wherever you need me if I'd like your offer. 
+I've been living and working in many cities, so I'm ready to move wherever you need me if I'd like your offer. 
 
 
 
