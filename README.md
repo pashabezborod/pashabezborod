@@ -25,7 +25,7 @@ Junior java developer.
 `Java Core` `Spring` `Spring MVC` `Spring Boot` `Multithreading` `IDEA` `GitHub` `GitLab` `OOP` `Linux` `SQLite` `Docker` `Maven`
 
 ### Other skills:
-`English upper intermediate` `Teamwork and Teamlead experience (not IT)`
+`English upper intermediate`
 ### Education
 Have a Master's degree in music.
 Completed [JavaRush](https://javarush.ru/users/2643012) school and finishing soon Innopolis University "Digital professions" course.
