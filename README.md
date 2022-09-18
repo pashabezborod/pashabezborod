@@ -1,6 +1,6 @@
 # Hi, I'm Pavel 👋  
 
-Junior java developer looking for some commercial developing experience and open for any offers.  
+Junior java developer. 
 <div style="text-align: center;">How to reach me:</div>
 
 <p align='center'>
@@ -22,7 +22,7 @@ Junior java developer looking for some commercial developing experience and open
 </p>
 
 ### Technical skills:
-`Java Core` `Multithreading` `IDEA` `GitHub` `GitLab` `OOP` `Linux` `SQLite` `Docker` `Maven`
+`Java Core` `Spring` `Spring MVC` `Spring Boot` `Multithreading` `IDEA` `GitHub` `GitLab` `OOP` `Linux` `SQLite` `Docker` `Maven`
 
 ### Other skills:
 `English upper intermediate` `Teamwork and Teamlead experience (not IT)`
