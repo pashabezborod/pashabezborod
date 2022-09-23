@@ -32,7 +32,7 @@ Completed [JavaRush](https://javarush.ru/users/2643012) school and Alishev's [Sp
 ### Experience
 Now I work for an IT copmany that develops enterprise solutions. My project is a system for automatization of gouvernment service of immovables control. My responsibilities are developing servlets and schedule services, coomunication with customers and testing group and managing data bases and virtual machines. I use a wide stack of technologies for this project, such as Spring, Liquibase, Lombok, Docker, Swagger and so on. 
 ### Projects 
-I have an educational project I'm working on: it's a [password manager](https://github.com/VigenereCoder) with JavaFx UI and Spring backend. It's already works, but I'm still developing it. And I'm gonna add Android UI for it soon.
+I have an educational project I'm working on: it's a [password manager](https://github.com/VigenereCoder) with JavaFx UI and Spring backend. It already works, but I'm still developing it. And I'm gonna add Android UI for it soon.
 ### About me
 I was a professional musician keen on IT, now I'm a java/kotlin developer.
 I am still learning and improving my skills and looking for any interesting experience.
