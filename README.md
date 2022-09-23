@@ -22,16 +22,20 @@ Junior java developer.
 </p>
 
 ### Technical skills:
-`Java Core` `Spring` `Spring MVC` `Spring Boot` `Multithreading` `IDEA` `GitHub` `GitLab` `OOP` `Linux` `SQLite` `Docker` `Maven`
+`Java Core` `Kotlin` `Spring` `Spring MVC` `Spring Boot` `Multithreading` `IDEA` `GitHub` `GitLab` `OOP` `Linux` `SQL` `Docker` `Maven`
 
 ### Other skills:
 `English upper intermediate`
 ### Education
 Have a Master's degree in music.
-Completed [JavaRush](https://javarush.ru/users/2643012) school and finishing soon Innopolis University "Digital professions" course.
+Completed [JavaRush](https://javarush.ru/users/2643012) school and Alishev's [Spring course](https://swiftbook.org/courses/438) and finishing soon Innopolis University "Digital professions" course. Also I learn Android developing in [OTUS](https://otus.ru/lessons/android-gpb)
+### Experience
+Now I work for an IT copmany that develops enterprise solutions. My project is a system for automatization of gouvernment service of immovables control. My responsibilities are developing servlets and schedule services, coomunication with customers and testing group and managing data bases and virtual machines. I use a wide stack of technologies for this project, such as Spring, Liquibase, Lombok, Docker, Swagger and so on.
+###Projects
+I have an educational project I'm working on: it's a [password manager](https://github.com/VigenereCoder) with JavaFx UI and Spring backend. It's already working, but I'm still developing it. And I'm gonna add Android UI for it soon.
 ### About me
-I'm a professional musician keen on IT, and some time before I understood that I like IT even more than music.  
-So I am learning Java, improving my skills and looking for my first real developer's work.  
+I was a professional musician keen on IT, now I'm a java/kotlin developer.
+I am still learning and improving my skills and looking for any interesting experience.
 You can take a look at my small projects on GitHub I made to have some practice along with my education.  
 I've been living and working in many cities, so I'm ready to move wherever you need me if I'd like your offer. 
 
