@@ -1,6 +1,6 @@
 # Hi, I'm Pavel 👋  
 
-Junior java developer. 
+Java developer. 
 <div style="text-align: center;">How to reach me:</div>
 
 <p align='center'>
@@ -22,7 +22,7 @@ Junior java developer.
 </p>
 
 ### Technical skills:
-`Java Core` `Kotlin` `Spring` `Spring MVC` `Spring Boot` `Multithreading` `IDEA` `GitHub` `GitLab` `OOP` `Linux` `SQL` `Docker` `Maven`
+`Java` `Spring framework` `Kotlin` `IDEA` `Git` `Linux` `SQL` `Docker` `Maven` `Gradle` `Android`
 
 ### Other skills:
 `English upper intermediate`
@@ -30,12 +30,11 @@ Junior java developer.
 Have a Master's degree in music.
 Completed [JavaRush](https://javarush.ru/users/2643012) school, Alishev's [Spring course](https://swiftbook.org/courses/438) and Innopolis University "Digital professions" course. Also I learn Android developing in [OTUS](https://otus.ru/lessons/android-gpb) and Kotlin by [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers).
 ### Experience
-Now I work for an IT company that develops enterprise solutions. My project is a system for automatization of gouvernement service of immovables control. My responsibilities are developing servlets, schedule services and email parsers, communication with customers and testing group and managing data bases and virtual machines. I use a wide stack of technologies for this project, such as Spring, Liquibase, Lombok, Docker, Swagger and so on. 
+I work for an IT company that develops enterprise solutions. My project is a system for automatization of gouvernement service of immovables control. My responsibilities are developing servlets, schedule services and email parsers, communication with customers and testing group and managing data bases and virtual machines. I use a wide stack of technologies for this project, such as Spring, Liquibase, Lombok, Docker, Swagger and so on. 
 ### Projects 
 I have an educational project I'm working on: it's a [password manager](https://github.com/VigenereCoder) with JavaFx UI and Spring backend. It already works, but I'm still developing it. And I'm gonna add Android UI for it soon.
 ### About me
-I was a professional musician keen on IT, now I'm a java/kotlin developer.
-I am still learning and improving my skills and looking for any interesting experience.
+I am still learning and improving my skills and looking for any valuable experience.
 You can take a look at my small projects on GitHub I made to have some practice along with my education.  
 I've been living and working in many cities, so I'm ready to move wherever you need me if I'd like your offer. 
 
