@@ -28,7 +28,7 @@ Java developer.
 `English upper intermediate`
 ### Education
 Have a Master's degree in music.
-Completed [JavaRush](https://javarush.ru/users/2643012) school, Alishev's [Spring course](https://swiftbook.org/courses/438) and Innopolis University "Digital professions" course. Also I learn Android developing in [OTUS](https://otus.ru/lessons/android-gpb) and Kotlin by [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers).
+Completed [JavaRush](https://javarush.ru/users/2643012) school, Alishev's [Spring course](https://swiftbook.org/courses/438) and Innopolis University "Digital professions" course. Also I learned Android developing in [OTUS](https://otus.ru/lessons/android-gpb) and Kotlin by [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers).
 ### Experience
 I work for an IT company that develops enterprise solutions. My project is a system for automatization of gouvernement service of immovables control. My responsibilities are developing servlets, schedule services and email parsers, communication with customers and testing group and managing data bases and virtual machines. I use a wide stack of technologies for this project, such as Spring, Liquibase, Lombok, Docker, Swagger and so on. 
 ### Projects 
