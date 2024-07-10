@@ -22,21 +22,21 @@ Java developer.
 </p>
 
 ### Technical skills:
-`Java` `Spring framework` `Kotlin` `IDEA` `Git` `Linux` `SQL` `Docker` `Maven` `Gradle` `Android`
+`Java` `Spring` `Kotlin` `Git` `Linux` `SQL` `NoSQL` `Docker` `Maven` `Gradle`
 
 ### Other skills:
 `English upper intermediate`
 ### Education
 Have a Master's degree in music.
-Completed [JavaRush](https://javarush.ru/users/2643012) school, Alishev's [Spring course](https://swiftbook.org/courses/438) and Innopolis University "Digital professions" course. Also I learned Android developing in [OTUS](https://otus.ru/lessons/android-gpb) and Kotlin by [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers).
+Completed [JavaRush](https://javarush.ru/users/2643012) school, Alishev's [Spring course](https://swiftbook.org/courses/438) and Innopolis University "Digital professions" course and Denis Matveyenka's [Udemy courses](https://www.udemy.com/user/dzianis-matveyenka/). Also I learned Android developing in [OTUS](https://otus.ru/lessons/android-gpb) and Kotlin by [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers).
 ### Experience
-I work for an IT company that develops enterprise solutions. My project is a system for automatization of gouvernement service of immovables control. My responsibilities are developing servlets, schedule services and email parsers, communication with customers and testing group and managing data bases and virtual machines. I use a wide stack of technologies for this project, such as Spring, Liquibase, Lombok, Docker, Swagger and so on. 
+For more, than two years develop and support the best programming solutions. 
 ### Projects 
-I have an educational project I'm working on: it's a [password manager](https://github.com/VigenereCoder) with JavaFx UI and Spring backend. It already works, but I'm still developing it. And I'm gonna add Android UI for it soon.
+Backend development and support of web applications.
+Key project: development of the government service's contact center and request processing system.
+Main Responsibilities: Development and support backend services, task schedulers and email parsers (IMAP and SMTP), s3 services etc. Implementing integrations with external services via REST and SOAP, communication with clients and testing team. Management and configuration of databases and virtual machines for small projects. Implementation of a reporting module using Apache Poi and business scenarios with Camunda.
 ### About me
-I am still learning and improving my skills and looking for any valuable experience.
-You can take a look at my small projects on GitHub I made to have some practice along with my education.  
-I've been living and working in many cities, so I'm ready to move wherever you need me if I'd like your offer. 
+An experienced Java Developer capable of creating applications for various platforms in order to make your business run more smoothly. Capable of backend design, database management, app creation and testing functionality, scheduling, analyzing logs, resolving information issues, and more. Enjoy teamwork, comply with code quality standards.
 
 
 
