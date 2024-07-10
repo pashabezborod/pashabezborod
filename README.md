@@ -25,7 +25,7 @@ Java developer.
 `Java` `Spring` `Kotlin` `Git` `Linux` `SQL` `NoSQL` `Docker` `Maven` `Gradle`
 
 ### Other skills:
-`English upper intermediate`
+`English upper intermediate` `Russian native` `Serbian basic`
 ### Education
 Have a Master's degree in music.
 Completed [JavaRush](https://javarush.ru/users/2643012) school, Alishev's [Spring course](https://swiftbook.org/courses/438) and Innopolis University "Digital professions" course and Denis Matveyenka's [Udemy courses](https://www.udemy.com/user/dzianis-matveyenka/). Also I learned Android developing in [OTUS](https://otus.ru/lessons/android-gpb) and Kotlin by [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers).
