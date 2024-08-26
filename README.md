@@ -1,4 +1,4 @@
-# Hi, I'm Pavel 👋  
+# Hi, I'm Pavel, Java and Kotlin developer 👋  
 
 Java developer. 
 <div style="text-align: center;">How to reach me:</div>
@@ -21,26 +21,24 @@ Java developer.
     </a>
 </p>
 
-### Technical skills:
-`Java` `Spring` `Kotlin` `Git` `Linux` `SQL` `NoSQL` `Docker` `Maven` `Gradle`
+### Objective
+2+ years experienced Java Developer capable of creating applications in order to make your business run more smoothly.
 
-### Other skills:
+Capable of backend design, database management, app creation and testing functionality, analyzing logs, resolving issues and more. Enjoy teamwork, comply with code quality standards.
+### Technical skills
+`Java` `Spring` `Kotlin` `Git` `Linux` `SQL` `NoSQL` `Docker` `Maven` `Gradle`
+### Other skills
 `English upper intermediate` `Russian native` `Serbian basic`
 ### Education
-Have a Master's degree in music.
-Completed [JavaRush](https://javarush.ru/users/2643012) school, Alishev's [Spring course](https://swiftbook.org/courses/438) and Innopolis University "Digital professions" course and Denis Matveyenka's [Udemy courses](https://www.udemy.com/user/dzianis-matveyenka/). Also I learned Android developing in [OTUS](https://otus.ru/lessons/android-gpb) and Kotlin by [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers).
+Have a Master's degree.
+Completed [JavaRush](https://javarush.ru/users/2643012) school, Alishev's [Spring course](https://swiftbook.org/courses/438), [Spring](https://www.udemy.com/certificate/UC-b9c5345b-953d-4b30-ab09-10d494b743c4/) and [Gradle](https://www.udemy.com/certificate/UC-cb57e9b4-b010-48d5-9cf8-f198ca8d7770/) courses on Udemy, Innopolis University "Digital professions" course. Also I learned Android developing in [OTUS](https://otus.ru/lessons/android-gpb) and Kotlin by [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers).
 ### Experience
-For more, than two years develop and support the best programming solutions. 
+More than two years develop and support the best programming solutions. 
 ### Projects 
 Backend development and support of web applications.
 Key project: development of the government service's contact center and request processing system.
 Main Responsibilities: Development and support backend services, task schedulers and email parsers (IMAP and SMTP), s3 services etc. Implementing integrations with external services via REST and SOAP, communication with clients and testing team. Management and configuration of databases and virtual machines for small projects. Implementation of a reporting module using Apache Poi and business scenarios with Camunda.
 ### About me
 An experienced Java Developer capable of creating applications for various platforms in order to make your business run more smoothly. Capable of backend design, database management, app creation and testing functionality, scheduling, analyzing logs, resolving information issues, and more. Enjoy teamwork, comply with code quality standards.
-
-
-
-
-
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pashabezborod&theme=dracula)  
