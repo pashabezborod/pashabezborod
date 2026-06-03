@@ -22,23 +22,19 @@ Java developer.
 </p>
 
 ### Objective
-2+ years experienced Java Developer capable of creating applications in order to make your business run more smoothly.
+An experienced Java/Kotlin Developer capable of creating applications for various platforms in order to make your business run more smoothly. Capable of backend design, database management, app creation and testing functionality, scheduling, analyzing logs, resolving information issues, and more. Enjoy teamwork, comply with code quality standards.
 
 Capable of backend design, database management, app creation and testing functionality, analyzing logs, resolving issues and more. Enjoy teamwork, comply with code quality standards.
 ### Technical skills
-`Java` `Spring` `Kotlin` `Git` `Linux` `SQL` `NoSQL` `Docker` `Maven` `Gradle`
+`Java` `Spring` `Kotlin` `Git` `Linux` `SQL` `NoSQL` `Docker` `Maven` `Gradle` `OAuth2` `KeyCloak`
 ### Other skills
-`English upper intermediate` `Russian native` `Serbian basic`
+`English advanced` `Russian native` `Serbian intermediate`
 ### Education
 Have a Master's degree.
 Completed [JavaRush](https://javarush.ru/users/2643012) school, Alishev's [Spring course](https://swiftbook.org/courses/438), [Spring](https://www.udemy.com/certificate/UC-b9c5345b-953d-4b30-ab09-10d494b743c4/) and [Gradle](https://www.udemy.com/certificate/UC-cb57e9b4-b010-48d5-9cf8-f198ca8d7770/) courses on Udemy, Innopolis University "Digital professions" course. Also I learned Android developing in [OTUS](https://otus.ru/lessons/android-gpb) and Kotlin by [Coursera](https://www.coursera.org/learn/kotlin-for-java-developers).
 ### Experience
-More than two years develop and support the best programming solutions. 
+Four years develop and support the best programming solutions. 
 ### Projects 
-Backend development and support of web applications.
-Key project: development of the government service's contact center and request processing system.
-Main Responsibilities: Development and support backend services, task schedulers and email parsers (IMAP and SMTP), s3 services etc. Implementing integrations with external services via REST and SOAP, communication with clients and testing team. Management and configuration of databases and virtual machines for small projects. Implementation of a reporting module using Apache Poi and business scenarios with Camunda.
-### About me
-An experienced Java Developer capable of creating applications for various platforms in order to make your business run more smoothly. Capable of backend design, database management, app creation and testing functionality, scheduling, analyzing logs, resolving information issues, and more. Enjoy teamwork, comply with code quality standards.
+Backend development and support of web applications in Fin Tech.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pashabezborod&theme=dracula)  
