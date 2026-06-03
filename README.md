@@ -21,7 +21,7 @@ Java developer.
     </a>
 </p>
 
-### Objective
+### About me
 An experienced Java/Kotlin Developer capable of creating applications for various platforms in order to make your business run more smoothly. Capable of backend design, database management, app creation and testing functionality, scheduling, analyzing logs, resolving information issues, and more. Enjoy teamwork, comply with code quality standards.
 
 Capable of backend design, database management, app creation and testing functionality, analyzing logs, resolving issues and more. Enjoy teamwork, comply with code quality standards.
